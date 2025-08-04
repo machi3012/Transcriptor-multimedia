@@ -1,0 +1,6 @@
+{
+  "name": "Transcriptor Multimedia IA",
+  "description": "Una herramienta sencilla para convertir voz de un archivo de audio o video a texto en español usando la API de Gemini. Sube un archivo y obtén la transcripción al instante.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
